@@ -19,5 +19,5 @@
 ---
 
 ## 📫 How to reach me:
-- LinkedIn: [linkedin.com/in/yaraliibrahim](#)
+- LinkedIn: [linkedin.com/in/yara2ibrahim](#)
 
