@@ -20,8 +20,7 @@ in **NGO operations, HR, and community programs** — which means I build things
 | Project | Stack | Description |
 |---|---|---|
 | [OmniTrack](https://github.com/Yara2ibrahim/OmniTrack) | Next.js 14 · TypeScript · Claude API · Recharts | AI-powered ad campaign analytics dashboard with multi-platform support, Arabic/English RTL, Kanban board & PDF export |
-| [CharityBridge](#) | Laravel · MySQL | Charity donation management system |
-| [Smartize Store](#) | PHP · MySQL | E-commerce store with product and order management |
+| [Smartize Store](https://github.com/Yara2ibrahim/smartize_store.git) | PHP · MySQL | E-commerce store with product and order management |
 | [Test Validation](https://github.com/Yara2ibrahim/Test-validation) | PHP | Registration form with server-side validation and data display |
 
 ---
